@@ -1,0 +1,5 @@
+{
+    "name": "Jupyter test",
+    "build" : {"dockerfile": "../Dockerfile"},
+    "forwardPorts" : ["8888:8888"]
+}
